@@ -1,6 +1,10 @@
 // Problem 1
 // declare a variable called fruit
+// ANSWER: let fruit
 // assign your variable the value "banana"
+// ANSWER: let fruit = "banana" 
+let fruit = "banana"
+console.log (fruit)
 // console log your variable
 // reassign your variable the value "peach"
 // console log your variable
